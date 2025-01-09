@@ -4,6 +4,8 @@
     "pages/index/index"
   ],
   "window": {
-    "defaultTitle": "My App"
+    "defaultTitle": "Le Monde dans la poche - Pays",
+    "pullRefresh": false,
+    "titleBarColor": "#FF0000"
   }
 }
