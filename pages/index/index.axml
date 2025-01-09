@@ -5,5 +5,5 @@
 
 <view>
   <ant-input placeholder="Country name (case-insensitive) or 2-letter ISO-3166 alpha-2 code of the country. E.g. Japan or JP." allowClear />
-  <ant-button type="primary" onTap="handleCountry">Valider</ant-button>
+  <ant-button type="primary" onTap="handleCountry">Vérifier</ant-button>
 </view>

@@ -4,7 +4,7 @@
     "pages/index/index"
   ],
   "window": {
-    "defaultTitle": "Le Monde dans la poche - Pays",
+    "defaultTitle": "Vérificateur des sites web",
     "pullRefresh": false,
     "titleBarColor": "#FF0000"
   }
